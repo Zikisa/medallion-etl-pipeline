@@ -1,0 +1,29 @@
+{
+    "latitude": -33.989456,
+    "longitude": 18.426968,
+    "generationtime_ms": 0.07224082946777344,
+    "utc_offset_seconds": 7200,
+    "timezone": "Africa/Johannesburg",
+    "timezone_abbreviation": "GMT+2",
+    "elevation": 17.0,
+    "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "rain": "mm",
+        "wind_speed_10m": "km/h"
+    },
+    "current": {
+        "time": "2026-11-01T13:00",
+        "interval": 900,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 20.7,
+        "rain": 0.0,
+        "wind_speed_10m": 19.0
+    },
+    "_ingested_at": "2026-11-01T11:02:10.905817",
+    "_source_system": "open_meteo_api"
+}
